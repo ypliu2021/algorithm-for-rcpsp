@@ -1,1 +1,1 @@
-# algorithm-for-rcpsp
+# algorithm solutions-for-rcpsp
