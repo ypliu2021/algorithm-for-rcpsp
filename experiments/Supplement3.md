@@ -17,6 +17,7 @@ opm 60
 
 The random choice case path in j30 ./rcpsp/j30.sm/j3023_7.sm case j3023_7.sm
 
+
 **Output:**
 
 ```
@@ -60,6 +61,7 @@ v5 15 10.433140277862549 s [60, 68] 0.0 [0, 11, 0, 0, 13, 10, 11, 15, 11, 15, 21
 C:\Anaconda\envs\tensorflow\python.exe "C:/Users/yongping/python work/new experiment for j30 random choice.py"
 opm 56
 the random choice case path in j30 ./rcpsp/j30.sm/j3018_3.sm case j3018_3.sm
+
 **Output:**
 
 ```
@@ -75,6 +77,7 @@ v5 1 1.248697280883789 s [55, 87] -1.7857142857142856 [0, 0, 0, 0, 5, 1, 1, 10, 
 C:\Anaconda\envs\tensorflow\python.exe "C:/Users/yongping/python work/new experiment for j30 random choice.py"
 opm 103
 the random choice case path in j30 ./rcpsp/j30.sm/j3041_6.sm case j3041_6.sm
+
 **Output:**
 
 ```
