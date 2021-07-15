@@ -3,7 +3,7 @@
 ### Appendix  
 **Table 2:**   The improved solutions for J60 sets (15 instances)
 
-| **J60 instances number** | **The optimum value given by PSPLIB** | **   The improved solution obtained from this paper** | **Use time(second)** |
+| **J60 instances number** | **The optimum value given by PSPLIB** | **The improved solution obtained from this paper** | **Use time(second)** |
 | :----------------------- | :------------------------------------ | :---------------------------------------------------- | :------------------- |
 | J602\_6                  | 64                                    | 61                                                    | 1\.44s               |
 | J602\_7                  | 53                                    | 50                                                    | 18\.63s              |
