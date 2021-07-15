@@ -27,6 +27,6 @@ Following is an example of the output of our algorithm:
 The source code will be open sourced when the paper gets published.
 
 
-###4. References
+### 4. References
 
 
