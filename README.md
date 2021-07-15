@@ -12,12 +12,13 @@ Following is an example of the output of our algorithm:
 **The above result can be explained as follows:**
 (v5) ith generation⎵used cpu time s(second)⎵[the fitness value for two solutions from our algorithm]⎵deviation from optimum (%)⎵[best solution from our algorithm]⎵penalty
 
-- **Supplement 0**: [The form of result with explnation](experiments/Supplement0.md)
-- **Supplement 1**: [The improved solution for j30 in Test 1](#)
-- **Supplement 2**:  [The improved solution for j60 in test 1](#)
-- **Supplement 4**:  [Results for j30 in Test 2](#)
-- **Supplement 5**:  [The most recent results for j60 in test 2 ](#)
-- **Supplement 6**:  [Results for J120new](#)
+
+- **Supplement 1**: [The improved solution for j30 in Test 1](experiments/Supplement1.md)
+- **Supplement 2**:  [The improved solution for j60 in test 1](experiments/Supplement2.md)
+- **Supplement 3**: [The form of result with explnation](experiments/Supplement3.md)
+- **Supplement 4**:  [Results for j30 in Test 2](experiments/Supplement4.md)
+- **Supplement 5**:  [The most recent results for j60 in test 2 ](experiments/Supplement5.md)
+- **Supplement 6**:  [Results for J120new](experiments/Supplement6.md)
 
 
 

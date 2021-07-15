@@ -1,13 +1,15 @@
-## Supplement 0: The form of result with explnation 
-
+## Supplement 3: The form of result with explnation
 
 Supplement   the example of case j3023_7.sm. The optimum is 60, given from the open website. 
 
 **Output format:**
+
 ```
 v5, ith generation, used cpu time, s(second), [the fitness value for two solutions from our algorithm], deviation from optimum (%), best solution from our algorithm, penalty 
 ```
+
 ----
+
 **Exp-1:**
 
 C:\Anaconda\envs\tensorflow\python.exe "C:/Users/yongping/python work/new experiment for j30 random choice.py"
@@ -16,6 +18,7 @@ opm 60
 The random choice case path in j30 ./rcpsp/j30.sm/j3023_7.sm case j3023_7.sm
 
 **Output:**
+
 ```
 v5 0 0.5675194263458252 s [67, 225] 11.666666666666666 [0, 0, 2, 0, 2, 12, 13, 4, 13, 17, 23, 27, 17, 29, 5, 29, 41, 32, 41, 42, 13, 32, 12, 18, 51, 52, 41, 57, 50, 64, 27, 67] 0
 65 67
@@ -50,24 +53,30 @@ v5 14 9.779889583587646 s [62, 81] 3.3333333333333335 [0, 10, 0, 0, 12, 12, 13, 
 v5 15 10.433140277862549 s [60, 68] 0.0 [0, 11, 0, 0, 13, 10, 11, 15, 11, 15, 21, 25, 15, 27, 16, 27, 50, 32, 31, 32, 17, 36, 10, 19, 41, 42, 41, 47, 50, 57, 28, 60] 0
 71 63
 ```
+
 -----
+
 **Exp-2:**
 C:\Anaconda\envs\tensorflow\python.exe "C:/Users/yongping/python work/new experiment for j30 random choice.py"
 opm 56
 the random choice case path in j30 ./rcpsp/j30.sm/j3018_3.sm case j3018_3.sm
 **Output:**
+
 ```
 v5 0 0.5784823894500732 s [66, 200] 17.857142857142858 [0, 0, 0, 0, 5, 1, 1, 10, 10, 13, 21, 6, 27, 21, 6, 1, 27, 11, 28, 14, 24, 35, 18, 45, 48, 51, 51, 58, 61, 58, 26, 66] 0
 56 66
 v5 1 1.248697280883789 s [55, 87] -1.7857142857142856 [0, 0, 0, 0, 5, 1, 1, 10, 10, 13, 21, 6, 27, 21, 6, 1, 27, 11, 30, 14, 24, 37, 18, 27, 30, 33, 33, 47, 50, 40, 26, 55] 0
 55 55
 ```
+
 -----
+
 **Exp-3:**
 C:\Anaconda\envs\tensorflow\python.exe "C:/Users/yongping/python work/new experiment for j30 random choice.py"
 opm 103
 the random choice case path in j30 ./rcpsp/j30.sm/j3041_6.sm case j3041_6.sm
 **Output:**
+
 ```
 v5 0 0.8078403472900391 s [113, 304] 9.70873786407767 [0, 3, 0, 0, 16, 32, 36, 12, 12, 23, 12, 69, 36, 52, 24, 75, 59, 45, 28, 83, 84, 59, 76, 67, 52, 91, 83, 94, 102, 91, 107, 113] 0
 105 111
@@ -82,6 +91,3 @@ v5 4 11.78253436088562 s [102, 387] -0.9708737864077669 [0, 0, 0, 12, 9, 16, 27,
 v5 5 14.528234004974365 s [102, 227] -0.9708737864077669 [0, 0, 0, 12, 9, 16, 27, 9, 12, 27, 28, 36, 46, 46, 42, 57, 53, 20, 53, 75, 76, 58, 66, 73, 36, 86, 75, 83, 97, 83, 91, 102] 0
 111 102
 ```
-
-
-
