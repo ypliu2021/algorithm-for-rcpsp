@@ -1,9 +1,9 @@
 ## Supplement 6: Results for J120new
 
-### Appendix  
 
 
 9 instances are found with new low bound optimum values (please check k_1000 103, k_1000 108, k_1000 166, k_1000 183, k_1000 342, k_1000 349, k_1000 361, k_1000 372, k_1000 385).
+
 All results are showed as follows:
 k_1000 0
 opm 111
