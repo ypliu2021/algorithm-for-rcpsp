@@ -1,8 +1,5 @@
 ## Supplement 5: The most recent results for j60 in Test 2
 
-### Appendix  
-
-
 C:\Anaconda\envs\tensorflow\python.exe "C:/Users/yongping/python work/new j60 sets experiment with 480 cases.py"
 aver_result_1000_time 201.9308858424425 seconds
 aver_result_1000_deviation 2.0156293550781665%
