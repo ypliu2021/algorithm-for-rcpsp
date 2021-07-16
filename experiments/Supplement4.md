@@ -1,6 +1,5 @@
 ## Supplement 4: Results for J30 in Test 2
 
-### Appendix  
 
 C:\Anaconda\envs\tensorflow\python.exe "C:/Users/yongping/python work/new j30 sets experiment with 480 cases.py"
 aver_result_480_time 41.52800423055887
