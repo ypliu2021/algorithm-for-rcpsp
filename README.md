@@ -22,11 +22,10 @@ Following is an example of the output of our algorithm:
 
 
 
-### 3. Source code
-
-The source code will be open sourced when the paper gets published.
+%### 3. Source code
 
 
-### 4. References
+
+%### 4. References
 
 
