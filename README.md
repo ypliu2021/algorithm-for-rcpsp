@@ -22,10 +22,6 @@ Following is an example of the output of our algorithm:
 
 
 
-%### 3. 
 
-
-
-%### 4.
 
 
