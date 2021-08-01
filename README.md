@@ -13,7 +13,7 @@ j6010_1 [0, 0, 11, 10, 11, 12, 20, 22, 9, 44, 27, 21, 17, 66, 13, 56, 42, 31, 14
 the name of instance⎵[best solution from our algorithm]⎵duration for this instance⎵deviation from optimum (%)⎵use time(seconds)
 
 
-- **Supplement 1**: [The solution for J30 in Test 1](experiments/Supplement1.md)
+- **Supplement 1**: [The solution for J30 in Test 1](j30detail_30.md)
 - **Supplement 2**:  [The solution for J60 in Test 1](experiments/Supplement2.md)
 - **Supplement 3**:  [Results for J30 in Test 2](experiments/Supplement4.md)
 - **Supplement 4**:  [The results for J60 in Test 2 ](experiments/Supplement5.md)
