@@ -14,10 +14,10 @@ the name of instance⎵[best solution from our algorithm]⎵duration for this in
 
 
 - **Supplement 1**: [The solution for J30 in Test 1](j30detail_30.md)
-- **Supplement 2**:  [The solution for J60 in Test 1](experiments/Supplement2.md)
-- **Supplement 3**:  [Results for J30 in Test 2](experiments/Supplement4.md)
-- **Supplement 4**:  [The results for J60 in Test 2 ](experiments/Supplement5.md)
-- **Supplement 5**:  [Results for J120](experiments/Supplement6.md)
+- **Supplement 2**:  [The solution for J60 in Test 1](j60detail_30.md)
+- **Supplement 3**:  [Results for J30 in Test 2](j30detail_60.md)
+- **Supplement 4**:  [The results for J60 in Test 2 ](j60detail_60.md)
+- **Supplement 5**:  [Results for J120](j120detail_15.md)
 
 
 
